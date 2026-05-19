@@ -4,11 +4,17 @@ J-Quants データを使った中長期投資分析プラットフォーム **Ka
 
 ## 最新版のダウンロード
 
-最新版は以下からダウンロードできます。
+まず [Releases ページ](https://github.com/kabuto-jp/kabuto/releases/latest) を開き、Assets から利用中のOSに合うファイルをダウンロードしてください。
 
-- [macOS Universal DMG](https://github.com/kabuto-jp/kabuto/releases/latest/download/Kabuto-macos-universal.dmg)
-- [Windows x64 Installer](https://github.com/kabuto-jp/kabuto/releases/latest/download/Kabuto-windows-x64-setup.exe)
-- [Releases ページ](https://github.com/kabuto-jp/kabuto/releases/latest)
+- macOS: `Kabuto-macos-universal.dmg`
+- Windows: `Kabuto-windows-x64-setup.exe`
+
+直接ダウンロードする場合は以下のリンクを使用できます。
+
+- [macOS Universal DMG をダウンロード](https://github.com/kabuto-jp/kabuto/releases/latest/download/Kabuto-macos-universal.dmg)
+- [Windows x64 Installer をダウンロード](https://github.com/kabuto-jp/kabuto/releases/latest/download/Kabuto-windows-x64-setup.exe)
+
+直接ダウンロードリンクはWebページではなくファイル取得用のURLです。クリック後にダウンロードが始まれば正常です。
 
 macOS版は Apple Silicon / Intel Mac の両方に対応する Universal ビルドです。
 
